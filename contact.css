@@ -1,0 +1,48 @@
+.navbar {
+    background: #e4e2de !important;
+}
+
+body{
+font-family: Arial, sans-serif;
+    background: linear-gradient(
+        135deg,
+        #eeece8,
+        #e4e2de,
+        #f0efed
+    );
+    background-color: #f0efed;
+    min-height: 100vh;
+}
+
+.contact-section{
+  padding:60px 20px;
+}
+
+form{
+  max-width:600px;
+  margin:auto;
+  background:white;
+  padding:30px;
+  border-radius:10px;
+}
+footer{
+  background:#111;
+  color:white;
+  text-align:center;
+  padding:20px;
+}
+.social-icons{
+    margin-bottom:15px;
+}
+
+.social-icons a{
+    color:white;
+    font-size:24px;
+    margin:0 10px;
+    text-decoration:none;
+    transition:0.3s;
+}
+
+.social-icons a:hover{
+    color:#0d6efd;
+}

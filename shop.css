@@ -1,0 +1,46 @@
+
+.navbar {
+    background: #e4e2de !important;
+}
+body{
+    min-height:100vh;
+    display:flex;
+    flex-direction:column;
+    font-family:Arial, sans-serif;
+    background: linear-gradient(
+        135deg,
+        #eeece8,
+        #e4e2de,
+        #f0efed
+    );
+    background-color: #f0efed;
+    
+}
+
+.container{
+    flex:1;
+}
+
+footer{
+    background:#111;
+    color:white;
+    text-align:center;
+    padding:20px;
+    margin-top:auto;
+}
+
+.social-icons{
+    margin:10px 0;
+}
+
+.social-icons a{
+    color:white;
+    font-size:24px;
+    margin:0 10px;
+    text-decoration:none;
+    transition:0.3s;
+}
+
+.social-icons a:hover{
+    color:#0d6efd;
+}
