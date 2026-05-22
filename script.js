@@ -1,1 +1,0 @@
-console.log("GearUp Store Website Loaded");
